@@ -1,0 +1,225 @@
+[
+  {
+    "url": "https://www.linkedin.com/pulse/compose-me-function-composition-javascript-kevin-greene/",
+    "title": "Compose me That: Function Composition in JavaScript",
+    "status": "Incomplete",
+    "id": "1"
+  },
+
+  {
+    "url": "https://hackernoon.com/javascript-functional-composition-for-every-day-use-22421ef65a10",
+    "title": "Functional JavaScript: Function Composition For Every Day Use.",
+    "status": "Incomplete",
+    "id": "2"
+  },
+
+  {
+    "url": "https://tylermcginnis.com/imperative-vs-declarative-programming/",
+    "title": "Imperative vs Declarative Programming",
+    "status": "Incomplete",
+    "id": "3"
+  },
+
+  {
+    "url": "https://stackoverflow.com/questions/33655534/difference-between-declarative-and-imperative-in-react-js",
+    "title": "Difference between declarative and imperative in React.js?",
+    "status": "Incomplete",
+    "id": "4"
+  },
+
+  {
+    "url": "https://angular.io/guide/template-syntax#two-way",
+    "title": "Angular Template Syntax",
+    "status": "Incomplete",
+    "id": "5"
+  },
+
+  {
+    "url": "https://guides.emberjs.com/v2.13.0/object-model/bindings/",
+    "title": "Object Model Bindings",
+    "status": "Incomplete",
+    "id": "6"
+  },
+
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map",
+    "title": "Array.prototype.map()",
+    "status": "Incomplete",
+    "id": "7"
+  },
+
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter",
+    "title": "Array.prototype.filter()",
+    "status": "Incomplete",
+    "id": "8"
+  },
+
+  {
+    "url": "https://facebook.github.io/react/docs/optimizing-performance.html#avoid-reconciliation",
+    "title": "Optomizing Performance",
+    "status": "Incomplete",
+    "id": "9"
+  },
+
+  {
+    "url": "https://facebook.github.io/react/docs/reconciliation.html#the-diffing-algorithm",
+    "title": "The Diffing Algorithm",
+    "status": "Incomplete",
+    "id": "10"
+  },
+
+  {
+    "url": "https://medium.com/@gethylgeorge/how-virtual-dom-and-diffing-works-in-react-6fc805f9f84e",
+    "title": "How Virtual-DOM and diffing works in React",
+    "status": "Incomplete",
+    "id": "11"
+  },
+
+  {
+    "url": "https://reactjs.org/docs/components-and-props.html",
+    "title": "Components and Props",
+    "status": "Incomplete",
+    "id": "12"
+  },
+
+  {
+    "url": "https://facebook.github.io/react/docs/rendering-elements.html",
+    "title": "Rendering Elements",
+    "status": "Incomplete",
+    "id": "13"
+  },
+
+  {
+    "url": "https://en.wikipedia.org/wiki/Single_responsibility_principle",
+    "title": "Single-responsibility principle",
+    "status": "Incomplete",
+    "id": "14"
+  },
+
+  {
+    "url": "https://facebook.github.io/react/docs/thinking-in-react.html",
+    "title": "Thinking in React",
+    "status": "Incomplete",
+    "id": "15"
+  },
+
+  {
+    "url": "https://github.com/facebookincubator/create-react-app",
+    "title": "Create React App",
+    "status": "Incomplete",
+    "id": "16"
+  },
+
+  {
+    "url": "https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html",
+    "title": "Create Apps with No Configuration",
+    "status": "Incomplete",
+    "id": "17"
+  },
+
+  {
+    "url": "https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html",
+    "title": "What's New in Create React App",
+    "status": "Incomplete",
+    "id": "18"
+  },
+
+  {
+    "url": "https://www.udacity.com/course/es6-javascript-improved--ud356",
+    "title": "ES6 - JavaScript Improved",
+    "status": "Incomplete",
+    "id": "19"
+  },
+
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals",
+    "title": "Template literals (Template strings)",
+    "status": "Incomplete",
+    "id": "20"
+  },
+
+  {
+    "url": "https://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components/",
+    "title": "Functional Components vs. Stateless Functional Components vs. Stateless Components",
+    "status": "Incomplete",
+    "id": "21"
+  },
+
+  {
+    "url": "https://reactjs.org/docs/thinking-in-react.html#step-4-identify-where-your-state-should-live",
+    "title": "Identify Where Your State Should Live",
+    "status": "Incomplete",
+    "id": "22"
+  },
+
+  {
+    "url": "https://reactjs.org/docs/state-and-lifecycle.html",
+    "title": "State and Lifecycle",
+    "status": "Incomplete",
+    "id": "23"
+  },
+
+  {
+    "url": "https://www.npmjs.com/package/prop-types",
+    "title": "prop-types",
+    "status": "Incomplete",
+    "id": "24"
+  },
+
+  {
+    "url": "https://facebook.github.io/react/docs/typechecking-with-proptypes.html",
+    "title": "Typechecking With PropTypes",
+    "status": "Incomplete",
+    "id": "25"
+  },
+
+  {
+    "url": "https://www.npmjs.com/package/escape-string-regexp",
+    "title": "escape-string-regexp",
+    "status": "Incomplete",
+    "id": "26"
+  },
+
+  {
+    "url": "https://www.npmjs.com/package/sort-by",
+    "title": "sort-by",
+    "status": "Incomplete",
+    "id": "27"
+  },
+
+  {
+    "url": "https://facebook.github.io/react/docs/thinking-in-react.html",
+    "title": "Thinking in React",
+    "status": "Incomplete",
+    "id": "28"
+  },
+
+  {
+    "url": "https://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components/",
+    "title": "Functional Components vs. Stateless Functional Components vs. Stateless Components",
+    "status": "Incomplete",
+    "id": "29"
+  },
+
+  {
+    "url": "https://facebook.github.io/react/docs/forms.html",
+    "title": "React Forms",
+    "status": "Incomplete",
+    "id": "30"
+  },
+
+  {
+    "url": "https://www.duncanleung.com/blog/2017-07-15-avoiding-react-setstate-pitfalls/",
+    "title": "Avoiding React setState() Pitfalls",
+    "status": "Incomplete",
+    "id": "31"
+  },
+
+  {
+    "url": "https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd",
+    "title": "How to NOT React: Common Anti-Patterns and Gotchas in React",
+    "status": "Incomplete",
+    "id": "32"
+  }
+]
