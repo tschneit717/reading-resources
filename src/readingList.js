@@ -7,7 +7,6 @@ if(!Cookies.get('visited')) {
   localStorage.setItem('state', JSON.stringify(sources))
 }
 let returnedObj = JSON.parse(localStorage.getItem('state'))
-console.log(returnedObj)
 class ReadingList extends Component {
   state = {
     sources: (returnedObj ? returnedObj : sources)
